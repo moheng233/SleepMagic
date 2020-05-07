@@ -1,0 +1,50 @@
+{
+  "bookGuiScale": 0,
+  "clickedVisualize": false,
+  "bookData": {
+    "cuisine:culinary_101": {
+      "viewedEntries": [
+        "cuisine:preface/credits",
+        "cuisine:preface/tooltip",
+        "cuisine:preface/ingredient",
+        "cuisine:preface/plant",
+        "cuisine:preface/rare_crop",
+        "cuisine:preface/social",
+        "cuisine:processing/basin",
+        "cuisine:processing/chopping_board",
+        "cuisine:processing/mill",
+        "cuisine:processing/jar",
+        "cuisine:processing/mortar",
+        "cuisine:utensils/fire_pit",
+        "cuisine:utensils/bbq_rack",
+        "cuisine:utensils/wok",
+        "cuisine:utensils/plate",
+        "cuisine:utensils/drinkro",
+        "cuisine:utensils/brewing",
+        "cuisine:ingredients/apple",
+        "cuisine:seasonings/salt",
+        "cuisine:misc/wooden_arm",
+        "cuisine:misc/fruit_trees",
+        "cuisine:misc/effect_resistance",
+        "cuisine:misc/tofu_block"
+      ],
+      "bookmarks": [],
+      "history": [
+        "cuisine:misc/tofu_block",
+        "cuisine:misc/effect_resistance",
+        "cuisine:misc/fruit_trees",
+        "cuisine:misc/wooden_arm",
+        "cuisine:seasonings/salt",
+        "cuisine:ingredients/apple",
+        "cuisine:utensils/brewing",
+        "cuisine:utensils/drinkro",
+        "cuisine:utensils/plate",
+        "cuisine:utensils/wok",
+        "cuisine:utensils/bbq_rack",
+        "cuisine:utensils/fire_pit",
+        "cuisine:processing/mortar"
+      ],
+      "completedManualQuests": []
+    }
+  }
+}
