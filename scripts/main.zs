@@ -1,0 +1,1 @@
+mods.botania.ManaInfusion.addInfusion(<item:ebwizardry:magic_crystal>,<item:minecraft:cobblestone>,10000);

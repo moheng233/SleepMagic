@@ -15,7 +15,7 @@ difficulty:2
 fancyGraphics:false
 ao:2
 renderClouds:fast
-resourcePacks:["Minecraft-Mod-Language-Modpack.zip"]
+resourcePacks:["Minecraft-Mod-Language-Modpack.zip","wizardry.translation.zip"]
 incompatibleResourcePacks:[]
 lastServer:
 lang:zh_cn
@@ -93,6 +93,8 @@ key_key.ftbquests.quests:0
 key_key.conarm.toggle_helm.desc:34
 key_key.conarm.toggle_chest.desc:35
 key_key.conarm.toggle_leg.desc:36
+key_key.ebwizardry.next_spell:49
+key_key.ebwizardry.previous_spell:48
 key_key.jei.toggleOverlay:24:CONTROL
 key_key.jei.focusSearch:33:CONTROL
 key_key.jei.toggleCheatMode:0

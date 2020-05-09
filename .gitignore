@@ -7,4 +7,5 @@ logs
 natives
 backups
 screenshots
-resourcepacks
+./BotaniaVars.dat
+./crafttweaker.log
