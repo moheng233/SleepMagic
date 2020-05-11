@@ -5,5 +5,19 @@
 		"index": 1,
 		"success": true,
 		"size": 1268381
+	},
+	{
+		"time": 1589085234754,
+		"file": "2020-05-10-12-33-54.zip",
+		"index": 2,
+		"success": true,
+		"size": 197649
+	},
+	{
+		"time": 1589103256038,
+		"file": "2020-05-10-17-34-16.zip",
+		"index": 3,
+		"success": true,
+		"size": 434855
 	}
 ]
