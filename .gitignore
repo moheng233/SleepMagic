@@ -1,5 +1,6 @@
 saves
 .mixin.out
+.vs
 crash-reports
 CustomSkinLoader
 llibrary
@@ -8,4 +9,5 @@ natives
 backups
 screenshots
 ./BotaniaVars.dat
-./crafttweaker.log
+resourcepacks/Minecraft-Mod-Language-Modpack.zip
+crafttweaker.log

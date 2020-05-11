@@ -29,7 +29,7 @@ fullscreen:false
 enableVsync:false
 useVbo:true
 hideServerAddress:false
-advancedItemTooltips:false
+advancedItemTooltips:true
 pauseOnLostFocus:true
 touchscreen:false
 overrideWidth:0
@@ -133,6 +133,7 @@ key_key.i18nmod.report_key.desc:37
 key_key.i18nmod.weblate_key.desc:38
 key_key.i18nmod.mcmod_key.desc:50
 key_key.i18nmod.reload_key.desc:19
+key_key.ftgumod.open:48
 key_key.toggleLiquids:38
 key_key.toggleVisible:0
 key_enderio.keybind.inventory:23
